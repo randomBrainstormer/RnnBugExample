@@ -1,1 +1,1 @@
-CHECK `index.js` for the code. Basically seems that `componentDidAppear` is not called when expected.
+Reproducible Demo for https://github.com/wix/react-native-navigation/issues/7061
